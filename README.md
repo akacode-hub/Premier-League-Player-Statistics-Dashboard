@@ -2,7 +2,7 @@
 Following are the insgights as shown in the figures below :
 &nsbp
 &nsbp
-![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/5cca6c99-8a91-4e0b-a2ad-3daedba8ff65
+![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/479a465e-0210-4621-b528-e5d6bd6d6642)
 &nsbp
 &nsbp
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/390bc23e-bb70-48d1-b8be-c1419e800098)
