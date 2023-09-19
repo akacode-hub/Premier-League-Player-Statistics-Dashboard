@@ -1,6 +1,6 @@
 # Premier-League-Player-Statistics-Dashboard
 Following are the insgights as shown in the figures below :
-&nsbp 
+&nsbp
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/390bc23e-bb70-48d1-b8be-c1419e800098)
 &nsbp
 &nsbp
