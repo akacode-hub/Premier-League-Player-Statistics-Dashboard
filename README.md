@@ -1,8 +1,6 @@
 # Premier-League-Player-Statistics-Dashboard
 Following are the insgights as shown in the figures below :
-&nsbp
 
-![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/479a465e-0210-4621-b528-e5d6bd6d6642)
 &nsbp
 &nsbp
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/390bc23e-bb70-48d1-b8be-c1419e800098)
@@ -24,6 +22,9 @@ Final output of the dynamic dashboard  page :
 &nsbp
 &nsbp
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/9f468312-817c-4671-9297-c69b589c0564)
+&nsbp
+&nsbp
+![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/479a465e-0210-4621-b528-e5d6bd6d6642)
 
 
 
