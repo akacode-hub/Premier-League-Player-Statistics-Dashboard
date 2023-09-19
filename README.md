@@ -14,10 +14,8 @@ Following are the insgights as shown in the figures below :
 &nsbp
 &nsbp
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/b0d300c2-6602-4113-9ddd-5e3da4f33a07)
-&nsbp
-&nsbp
-Final output of the dynamic dashboard  page :
 
+Final output of the dynamic dashboard  page :
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/9f468312-817c-4671-9297-c69b589c0564)
 
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/479a465e-0210-4621-b528-e5d6bd6d6642)
