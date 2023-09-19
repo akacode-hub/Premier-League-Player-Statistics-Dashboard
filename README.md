@@ -20,8 +20,7 @@ Final output of the dynamic dashboard  page :
 &nsbp
 &nsbp
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/9f468312-817c-4671-9297-c69b589c0564)
-&nsbp
-&nsbp
+
 ![image](https://github.com/akacode-hub/Premier-League-Player-Statistics-Dashboard/assets/90734448/479a465e-0210-4621-b528-e5d6bd6d6642)
 
 
